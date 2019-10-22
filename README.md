@@ -1,7 +1,10 @@
 # dmd-manners-mode
 
-Graduation exhibition project.
-2019 Digital Media Design, Kaywon Univ.
-
+### 매너모드(Manners Mode)<br>
+Project presentation website.<br>
+<br>
+2019 Graduation Exhibition<br>
+Digital Media Design, Kaywon Univ.<br>
+<br>
 ## License
-Haram Kim
+2019 Kimaramy
