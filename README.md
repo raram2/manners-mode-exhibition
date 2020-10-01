@@ -1,10 +1,9 @@
-# dmd-manners-mode
+# Manners Mode
+Promotion webpage for Manners-mode
 
-### 매너모드(Manners Mode)<br>
-Project presentation website.<br>
-<br>
-2019 Graduation Exhibition<br>
-Digital Media Design, Kaywon Univ.<br>
-<br>
-## License
-2019 Kimaramy
+2020 Graduation Exhibition
+Digital Media Design, Kaywon University of Art & Design
+
+#### Compatibility
+- Optimized over 1440px
+- Chrome, Firefox, Whale, Edge recommended

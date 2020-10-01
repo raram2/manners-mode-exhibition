@@ -1,0 +1,35 @@
+@import url('header.css');
+@import url('body.css');
+@import url('footer.css');
+
+/* Animation */
+
+.delay-1000ms {
+    transition-delay: 1000ms !important;
+}
+
+.delay-1250ms {
+    transition-delay: 1250ms !important;
+}
+
+.delay-1500ms {
+    transition-delay: 1500ms !important;
+}
+
+[data-scroll] {
+    transition: transform .75s, opacity .9s;
+    transition-property: transform, opacity;
+    transition-duration: .75s, .9s;
+    transition-timing-function: ease-in, ease-in;
+    transition-delay: 0.5s, 0.5s;
+}
+
+[data-scroll="in"] {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+[data-scroll="out"] {
+    opacity: 0;
+    transform: translateY(32px);
+}
